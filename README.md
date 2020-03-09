@@ -1,6 +1,6 @@
 freeCodeCamp.org에 올라온 7시간짜리 TensorFlow 2.0 Complete Course를 보고 TF 2.x 입문 스터디용으로 정리를 하였습니다. 영상에 있는 내용이 정리본에 없거나, 정리본에 있는데 영상에 없는 내용이 있을 수 있습니다. 
 
-Course는 8가지 module로 구성되어 있습니다. 다음은 freeCodeCamp의 course 설명과 Youtube 링크입니다.
+Course는 8가지 module로 구성되어 있습니다. 다음은 freeCodeCamp의 course 설명과 Youube 링크입니다.
 
 freeCodeCamp : https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/
 
