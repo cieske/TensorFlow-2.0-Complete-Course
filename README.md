@@ -7,3 +7,8 @@ freeCodeCamp : https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-cou
 Youtube video : https://www.youtube.com/watch?v=tPYj3fFJGjk 
 
 기본적인 python 프로그래밍을 알고 있는 사람들 중 AI나 ML/DL beginner, 또는 약간의 이해를 하고 있는 사람들을 대상으로 하는 course입니다. 유튜브 영상 설명에 저자가 올린 google colab notebook도 있으니 참고하시면 될 것 같습니다. 아직 TF 2.x 버전에 익숙하지 않아 틀린 부분이 있을수도 있으니 참고해주세요.
+
+
+##추가해야 할 부분
+Module 3 - Clustering 구현, Hidden Markov Models 개념 설명
+Module 4 - Neural Network 개념 설명
