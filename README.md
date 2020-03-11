@@ -11,7 +11,7 @@ Youtube video : https://www.youtube.com/watch?v=tPYj3fFJGjk
 
 
 
-##추가해야 할 부분
+##추가해야 할 부분##
 
 Module 3 - Clustering 구현, Hidden Markov Models 개념 설명
 
