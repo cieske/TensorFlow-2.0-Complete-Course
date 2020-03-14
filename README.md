@@ -8,6 +8,7 @@ Youtube video : https://www.youtube.com/watch?v=tPYj3fFJGjk
 
 기본적인 python 프로그래밍을 알고 있는 사람들 중 AI나 ML/DL beginner, 또는 약간의 이해를 하고 있는 사람들을 대상으로 하는 course입니다. 유튜브 영상 설명에 저자가 올린 google colab notebook도 있으니 참고하시면 될 것 같습니다. 아직 TF 2.x 버전에 익숙하지 않아 틀린 부분이 있을수도 있으니 참고해주세요.
 
+대부분의 영상이 tensorflow 공식 문서를 참고하여 만들어졌습니다. 해당 문서 링크는 각 module에 추가되어있습니다.
 
 
 
